@@ -3,7 +3,7 @@ const input = document.getElementById("email");
 
 
 const handleSubmit = (e) => {
-    e.preventDefault(e);
+    e.preventDefault();
 
 //   const data = {};
 //   const fields = e.target.querySelectorAll("input, select, textarea");
